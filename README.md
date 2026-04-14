@@ -1,1 +1,1 @@
-A project to mak a infermaton card with HTML and CSS
+A project to make a infermaton card with HTML and CSS.
